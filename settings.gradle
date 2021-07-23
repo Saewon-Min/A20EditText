@@ -1,0 +1,2 @@
+rootProject.name = "A20EditText"
+include ':app'
